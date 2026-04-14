@@ -103,7 +103,7 @@
    "sendClanName":true,
    "playerLookupService":"OSRS_HISCORE",
    "threadNameTemplate":"[%TYPE%] %MESSAGE%",
-   "discordWebhook":"https://discord.com/api/webhooks/1196144555205066865/An99m8-IY18iJWTkY181pbV4ZmVvcJ9x_7yDfGgsqgF70nb15UasLE-GTb9W0dOWIDNj",
+   "discordWebhook":"https://discord.com/api/webhooks/1493599501330681868/iVG_OhCRVbgl9_Ka-7DaW7wUeizbqSqGHkHqYphcDqOV2XeaQvqwLhLQaSYQjJ1APVof",
    "tradeNotifyMessage":"%USERNAME% traded with %COUNTERPARTY%",
    "lootIncludePlayer":false,
    "combatTaskMinTier":"GRANDMASTER",
